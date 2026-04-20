@@ -1,1 +1,2 @@
-
+This is only a test.
+Creating text files inside a repo is pretty easy...
